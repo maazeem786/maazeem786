@@ -1,4 +1,4 @@
-# Hey there, I'm Abdul Azeem ðŸ‘‹
+# Hey there, I'm Abdul Azeem
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2ECC71&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI+%7C+Machine+Learning+Enthusiast" alt="Typing SVG" />
@@ -14,9 +14,9 @@
 
 ---
 
-## ðŸŽ¯ About Me
+## About Me
 
-I'm a 3rd year Computer Science Engineering student at **GITAM University, Hyderabad**, with an insatiable curiosity for turning raw data into meaningful insights. My journey started with a simple question: *"How does Netflix know what I want to watch before I do?"* â€” and now I'm deep into building ML models that predict, classify, and make sense of the world through data.
+I'm a 2nd year Computer Science Engineering student at **GITAM University, Hyderabad**, with an insatiable curiosity for turning raw data into meaningful insights. My journey started with a simple question: *"How does Netflix know what I want to watch before I do?"* - and now I'm deep into building ML models that predict, classify, and make sense of the world through data.
 
 When I'm not coding, you'll find me exploring new ML papers, competing on Kaggle, or building side projects that solve real problems.
 
@@ -24,7 +24,7 @@ When I'm not coding, you'll find me exploring new ML papers, competing on Kaggle
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,7 +54,7 @@ When I'm not coding, you'll find me exploring new ML papers, competing on Kaggle
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maazeem786&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
@@ -70,7 +70,7 @@ When I'm not coding, you'll find me exploring new ML papers, competing on Kaggle
 
 ---
 
-## ðŸ† GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maazeem786&theme=monokai&row=2&column=3&margin-w=15&margin-h=15" alt="Trophy Stats" />
@@ -78,14 +78,12 @@ When I'm not coding, you'll find me exploring new ML papers, competing on Kaggle
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
-<p align="center">
-  Click on any project to explore the code and documentation!
-</p>
+Click on any project to explore the code and documentation!
 
-| ðŸŒŸ Project | Description | Key Tech | Stars |
-|-----------|-------------|----------|-------|
+| Project | Description | Key Tech | Stars |
+|---------|-------------|----------|-------|
 | **[Customer Churn Prediction](https://github.com/maazeem786/Customer-Churn-Prediction)** | Ensemble ML to predict telecom churn. Inspired by my own experience with a buggy churn system! | Python, Scikit-learn, XGBoost, Streamlit | ![Stars](https://img.shields.io/github/stars/maazeem786/Customer-Churn-Prediction?style=flat-square) |
 | **[StockSense Forecasting](https://github.com/maazeem786/StockSense-Forecasting)** | LSTM neural network predicting stock prices from technical indicators | Python, TensorFlow, Keras, Yahoo Finance | ![Stars](https://img.shields.io/github/stars/maazeem786/StockSense-Forecasting?style=flat-square) |
 | **[HealthPulse Disease Prediction](https://github.com/maazeem786/HealthPulse-Disease-Prediction)** | ML-powered disease risk assessment from symptoms. Built for my grandmother | Python, Random Forest, Gradient Boosting | ![Stars](https://img.shields.io/github/stars/maazeem786/HealthPulse-Disease-Prediction?style=flat-square) |
@@ -94,7 +92,7 @@ When I'm not coding, you'll find me exploring new ML papers, competing on Kaggle
 
 ---
 
-## ðŸ“ˆ Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maazeem786&theme=radical&hide_border=true&color=2ECC71&line=2ECC71&point=2ECC71&bg_color=1a1a2e" alt="Contribution Graph" />
@@ -102,28 +100,18 @@ When I'm not coding, you'll find me exploring new ML papers, competing on Kaggle
 
 ---
 
-## ðŸŽ“ Education & Learning
+## Education & Learning
 
-- **B.Tech in Computer Science Engineering** â€” GITAM University, Hyderabad (2022-2026)
-- **AWS Machine Learning Specialty** â€” In Progress
-- **Kaggle** â€” Intermediate Machine Learning, Intro to Deep Learning competitions
-- **Coursera** â€” Deep Learning Specialization (in progress)
-
----
-
-## ðŸ’¬ Recent Blog Posts
-
-<!-- HASHNODE_BLOG:START -->
-- [Why I Started Learning Data Science](https://maazeem786.hashnode.dev)
-- [Why Customer Churn Prediction Matters](https://maazeem786.hashnode.dev)
-- [Why I Built a Stock Price Predictor](https://maazeem786.hashnode.dev)
-<!-- HASHNODE_BLOG:END -->
+- **B.Tech in Computer Science Engineering** - GITAM University, Hyderabad (2024-2028)
+- **AWS Machine Learning Specialty** - In Progress
+- **Kaggle** - Intermediate Machine Learning, Intro to Deep Learning competitions
+- **Coursera** - Deep Learning Specialization (in progress)
 
 ---
 
-## ðŸ¤ Let's Connect
+## Let's Connect
 
-I'm always excited to collaborate on interesting Data Science projects! Whether it's predicting customer behavior, analyzing financial data, building healthcare AI, or exploring NLP â€” let's build something amazing together.
+I'm always excited to collaborate on interesting Data Science projects! Whether it's predicting customer behavior, analyzing financial data, building healthcare AI, or exploring NLP - let's build something amazing together.
 
 Don't hesitate to reach out if you want to:
 - Discuss a project idea
@@ -138,7 +126,7 @@ Don't hesitate to reach out if you want to:
 ---
 
 <p align="center">
-  <i>âš¡ "Data is the voice of the truth. I'm here to make it speak."</i>
+  <i>* "Data is the voice of the truth. I'm here to make it speak."</i>
 </p>
 
 <p align="center">
