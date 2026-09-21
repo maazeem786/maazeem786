@@ -1,4 +1,4 @@
-# Hey there, I'm Mohd Abdul Azeem ðŸ‘‹
+# Hey there, I'm Abdul Azeem ðŸ‘‹
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2ECC71&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI+%7C+Machine+Learning+Enthusiast" alt="Typing SVG" />
